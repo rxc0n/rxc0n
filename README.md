@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png" width="230" height="140"/>
+  <img src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png" width="230" height="150"/>
 </div>
 
 
